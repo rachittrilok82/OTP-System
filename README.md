@@ -6,7 +6,6 @@ Steps to run the project:-<br />
   $mail->Username = 'rachit@gmail.com'; // your email<br />                 
 	$mail->Password = 'your_password'; // your email password<br /><br />
 3. Run the index.php file<br />
-
 <h2>OUTPUT Screenshots</h2><br/><br/>
 <img src="ss1.PNG"/><br/><br/>
 <img src="ss2.PNG"/><br/><br/>
