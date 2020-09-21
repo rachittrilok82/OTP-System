@@ -7,5 +7,8 @@ Steps to run the project:-<br />
 	$mail->Password = 'your_password'; // your email password<br /><br />
 3. Run the index.php file<br />
 
-<h2>OUTPUT Screenshots</h2>
-<img src="ss1.png">
+<h2>OUTPUT Screenshots</h2><br/><br/>
+<img src="ss1.PNG"/><br/><br/>
+<img src="ss2.PNG"/><br/><br/>
+<img src="ss3.PNG"/><br/><br/>
+<img src="ss4.PNG"/><br/><br/>
