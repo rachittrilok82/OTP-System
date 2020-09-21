@@ -30,15 +30,15 @@ function smtp_mailer($to,$subject, $msg){
 	$mail->isSMTP();                                    
 	$mail->Host = 'smtp.gmail.com';  
 	$mail->SMTPAuth = true;                               
-	$mail->Username = 'nikhilgupta8822@gmail.com';                 
-	$mail->Password = 'Randy500$';                           
+	$mail->Username = 'rachit@gmail.com';    //enter your email adddress             
+	$mail->Password = 'xxxxxx'; // enter your email password                           
 	$mail->SMTPSecure = 'tls';                            
 	$mail->Port = 587;                                   
 	
-	$mail->setFrom('nikhilgupta8822@gmail.com', 'Mailer');
-	$mail->addAddress($to, 'Recepient');     
+	$mail->setFrom('rachit@gmail.com', 'Mailer'); //enter your email here.
+	$mail->addAddress($to, 'Recepient');     //email id of receiver comes here.
 	
-	$mail->addReplyTo('nikhilgupta8822@gmail.com', 'Information');
+	$mail->addReplyTo('rachit@gmail.com', 'Information'); //enter your email here
 
 	
 	
